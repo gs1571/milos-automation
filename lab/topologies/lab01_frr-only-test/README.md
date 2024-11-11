@@ -60,7 +60,7 @@ docker exec -u root -t -i annet /bin/bash
 
 Generate configuration for `frr-r1`, `frr-r2`, `frr-r3`:
 
-`annet deploy frr-r1.nh.com frr-r2.nh.com frr-r3.nh.com`
+`annet gen frr-r1.nh.com frr-r2.nh.com frr-r3.nh.com`
 
 Look at diff
 
